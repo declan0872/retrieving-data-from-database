@@ -1,6 +1,6 @@
 # Retrieving Data from Database
 
-How to call a data from a SQL database use a PHP script and the parsing the data through JSON.
+How to call data from an SQL database using a PHP script and then parsing the data through JSON.
 
 ## Tech Specs
 
