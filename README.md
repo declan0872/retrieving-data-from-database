@@ -14,7 +14,3 @@ How to call a data from a SQL database use a PHP script and the parsing the data
 3. You also need to add service.php to a web sever (either hosted remotly or local) and take note of the URL to the file.
 	This file will be referenced in the playground file.
 4. You will need to upload the DB onto the same web service.
-
-<p align="center">
-  <img src="images/image1.png" width="350" title="Image 1">
-</p>
